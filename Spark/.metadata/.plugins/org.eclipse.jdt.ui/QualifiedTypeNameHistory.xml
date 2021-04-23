@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.amazonaws.services.elasticmapreduce.AmazonElasticMapReduce"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.elasticmapreduce.model.AddJobFlowStepsRequest"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.elasticmapreduce.model.HadoopJarStepConfig"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.elasticmapreduce.model.StepConfig"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.elasticmapreduce.model.AddJobFlowStepsResult"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.elasticmapreduce.util.StepFactory"/>
+    <fullyQualifiedTypeName name="com.amazonaws.auth.AWSCredentials"/>
+    <fullyQualifiedTypeName name="com.amazonaws.auth.BasicAWSCredentials"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.elasticmapreduce.AmazonElasticMapReduceClient"/>
+    <fullyQualifiedTypeName name="com.amazonaws.regions.Regions"/>
+</qualifiedTypeNameHistroy>
